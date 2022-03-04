@@ -1,0 +1,335 @@
+/*Theme css */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;1,300;1,700&family=Roboto+Slab:wght@300;400;700&display=swap');
+/* Global css */
+body{
+	font-family: 'Lato', sans-serif;
+	font-family: 'Roboto Slab', serif;
+}
+
+
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.nav-link.js-scroll-trigger.active{
+	color: #ed145b;
+}
+.nav-link.js-scroll-trigger{
+	color: white;
+	margin: 20px;
+}
+.home-sec{
+	background: url(../img/mache_bg.jpg)no-repeat;
+	background-size: cover;
+}
+.home-text{
+	text-align: center;
+
+}
+.line{
+	margin: 20px auto;
+}
+.home-text h1{
+	color: #ffffff75;
+	margin-top: 105px;
+
+}
+.home-text h1{
+	color: white;
+
+}
+.home-text p{
+	color: #c3c3c3;
+
+}
+.home-btn{
+	padding: 10px 30px;
+    border-radius: 30px;
+    color: white;
+    background-color: #ed145b;
+    border-style: none;
+    margin: 30px;
+
+}
+.about-sec{
+	background-color:#f4f4f4;
+
+}
+.about-text{
+
+}
+.about-text h1{
+	color: #5a5a5a;
+    font-size: 40px;
+
+}
+.about-text p{
+	color: #767676;
+
+}
+.about-text h4{
+	color: #ed145b;
+	margin-top: 50px;
+
+}
+.fa.fa-play-circle-o{
+	color: #ed145b;
+
+}
+.about-img{
+
+}
+.about-img img{
+	width: 135%;
+    position: absolute;
+    margin-top: 30%;
+
+}
+.services-sec{
+	text-align: center;
+}
+.services-text{
+
+}
+.services-text h1{
+	color: #5a5a5a;
+
+}
+.services-text p{
+	color: #767676;
+
+}
+.icon-1{
+
+}
+.icon-1 img{
+	margin-top: 50px;
+
+}
+.icon-1 h6{
+	margin-top: 30px;
+    color: #ed145b;
+
+}
+.icon-2{
+
+}
+.icon-2 img{
+	margin-top: 50px;
+
+}
+.icon-2 h6{
+	margin-top: 30px;
+    color: #ed145b;
+}
+.icon-3{
+
+}
+.icon-3 img{
+	margin-top: 50px;
+
+}
+.icon-3 h6{
+	margin-top: 30px;
+    color: #ed145b;
+}
+.icon-4{
+
+}
+.icon-4 img{
+	margin-top: 50px;
+
+}
+.icon-4 h6{
+	margin-top: 30px;
+    color: #ed145b;
+}
+.prices-text{
+	text-align: center;
+}
+.prices-text h1{
+	color: #5a5a5a;
+
+}
+.prices-text p{
+	color: #767676;
+
+}
+.carousel-control-next, .carousel-control-next, .carousel-control-prev, .carousel-control-prev{
+	background-color: transparent !important;
+
+    height: 43px;
+    margin: auto;
+    border: none;
+}
+.carousel-control-next:focus, .carousel-control-next:hover, .carousel-control-prev:focus, .carousel-control-prev:hover{
+	background-color: transparent !important;
+
+}
+
+.carousel-caption{
+	top: 250px;
+}
+.fa.fa-quote-left{
+	color:#ed145b ;
+
+
+}
+.fa.fa-quote-right{
+	color:#ed145b ;
+
+}
+h5{
+	margin-top: 20px;
+}
+
+.price{
+	font-size: 25px;
+}
+.header-card{
+	position: relative;
+}
+.type{
+	padding: 10px 30px;
+	background-color: #f4f4f4;
+	border-radius: 30px;
+	position: absolute;
+	color: white;
+	left: 65px;
+}
+
+span{
+	color: white;
+}
+.card-body{
+	color: gray;
+
+}
+.temp-1{
+	margin-top: 80px;
+}
+.temp-2{
+	margin-top: 80px;
+
+}
+.temp-3{
+	margin-top: 80px;
+
+}
+.temp-4{
+	margin-top: 80px;
+
+}
+.fa.fa-television{
+	font-size: 80px;
+	color: gray;
+
+}
+.icon-text-1 h2{
+	font-size: 25px;
+	color:#ed145b ;
+
+}
+.fa.fa-camera{
+	font-size: 80px;
+	color: gray;
+
+}
+.icon-text-2 h2{
+	font-size: 25px;
+	color:#ed145b ;
+}
+.fa.fa-calendar-check-o{
+	font-size: 80px;
+	color: gray;
+
+}
+.icon-text-3 h2{
+	font-size: 25px;
+	color:#ed145b ;
+}
+.fa.fa-cogs{
+	font-size: 80px;
+	color: gray;
+
+}
+
+.icon-text-4 h2{
+	font-size: 25px;
+	color:#ed145b ;
+}
+.fa.fa-star-half-o{
+	font-size: 80px;
+	color: gray;
+
+}
+.icon-text-5 h2{
+	font-size: 25px;
+	color:#ed145b ;
+}
+.fa.fa-area-chart{
+	font-size: 80px;
+	color: gray;
+
+
+}
+.icon-text-6 h2{
+	font-size: 25px;
+	color:#ed145b ;
+}
+.join-sec{
+	background-color:#ed145b ;
+	width: 99%;
+
+}
+.join-text h1{
+	font-size: 30px;
+    color: white;
+    margin-left: 30px;
+
+}
+.join-btn{
+	padding: 10px 70px;
+    color: #ed145b;
+    background-color: white;
+    border-radius: 30px;
+    border: none;
+    margin-left: 30%;
+}
+.update-sec{
+	text-align: center;
+}
+h3{
+	margin-top: 20px;
+	color: #5a5a5a;
+}
+.pic-3{
+	position: relative;
+	overflow: hidden;
+
+}
+.pic-3 img{
+
+}
+.img-hover-content{
+	position: absolute;
+	width: 361px;
+	height:248px;
+	background-color:#ed145b ;
+	top: 0px;
+	right: -100%;
+	opacity: 0.4;
+}
+.img-hover-content.fa.fa-search{
+	color: white;
+
+
+}
+.pic-3:hover .img-hover-content{
+	right: 0px;
+	transition: 0.4s ease-in-out;
+}
+.info{
+	background-color: gray;
+}
